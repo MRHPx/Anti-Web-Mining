@@ -1,8 +1,17 @@
-# Host file to block web mining domain
-# URL: https://github.com/MRHPx/Anti-Web-Mining
-# Total 3574 domains
+# Anti-Web-Mining
+# Host file to block web mining and popads domain
+# Total 3589 domains
 # Copy this file to \Windows\System32\drivers\etc
+#
+# Homepage: https://github.com/MRHPx/Anti-Web-Mining
+# Contribute: https://github.com/MRHPx/Anti-Web-Mining/issues
+# License: https://mit-license.org/
+#
+# Last modified: 20 Oct 2017
+# 
 
+127.0.0.1 localhost
+::1 localhost
 
 127.0.0.1 aajychvi.bid
 127.0.0.1 aanvxbvkdxph.com
@@ -141,6 +150,7 @@
 127.0.0.1 azlbmpidrvnoi.bid
 127.0.0.1 azqmmfhmfnpsvb.bid
 127.0.0.1 azroydhgqcfv.com
+127.0.0.1 azvjudwr.info
 127.0.0.1 badgmvhtvryg.bid
 127.0.0.1 bagoojzsqygg.com
 127.0.0.1 baiaclwdpztd.com
@@ -356,10 +366,13 @@
 127.0.0.1 cmqeojydveotb.bid
 127.0.0.1 cmqyhtqkhduy.com
 127.0.0.1 cmrxvyjyaerf.com
+127.0.0.1 cnhv.co
 127.0.0.1 cnntsmnymvnp.com
 127.0.0.1 cnnzfijy.bid
 127.0.0.1 cnygzgurqpwop.bid
 127.0.0.1 cogxsnvqesph.com
+127.0.0.1 coin-hive.com
+127.0.0.1 coinhive.com
 127.0.0.1 coiphezlzpl.bid
 127.0.0.1 cokrrmzagaxn.com
 127.0.0.1 cortxphssdvc.com
@@ -386,6 +399,7 @@
 127.0.0.1 crqnosmxstdfnp.bid
 127.0.0.1 crtntrvjuun.bid
 127.0.0.1 cruqmpwhczna.bid
+127.0.0.1 crypto-loot.com
 127.0.0.1 cscactmkbfvn.com
 127.0.0.1 csdqikvba.bid
 127.0.0.1 cslxhmchzgbx.com
@@ -922,6 +936,7 @@
 127.0.0.1 gulvkhfah.bid
 127.0.0.1 guowsqbyh.bid
 127.0.0.1 gurrfwsscwda.com
+127.0.0.1 gus.host
 127.0.0.1 guziwptcqucio.bid
 127.0.0.1 gverjfuapaag.com
 127.0.0.1 gvgakxvukmrm.com
@@ -1311,6 +1326,7 @@
 127.0.0.1 jqojocdbjpdyk.bid
 127.0.0.1 jqtftqnkhsw.bid
 127.0.0.1 jrauyqdbit.bid
+127.0.0.1 jroqvbvw.info
 127.0.0.1 jrtawlpbusyg.com
 127.0.0.1 jtmfmeexjet.bid
 127.0.0.1 jtqfggxxk.bid
@@ -1346,6 +1362,7 @@
 127.0.0.1 jxxjndvcf.bid
 127.0.0.1 jyauuwrrigim.com
 127.0.0.1 jydbctzvbqrh.com
+127.0.0.1 jyhfuqoh.info
 127.0.0.1 jypmcknqvnfd.com
 127.0.0.1 jyrjjhdas.bid
 127.0.0.1 jzbarlrhbicg.com
@@ -1372,6 +1389,7 @@
 127.0.0.1 kcgmgnejfp.bid
 127.0.0.1 kcqdidtq.bid
 127.0.0.1 kdaskxrcgxhp.com
+127.0.0.1 kdowqlpt.info
 127.0.0.1 kdtictjmofbl.com
 127.0.0.1 kdtstmiptmvk.com
 127.0.0.1 kdvcvkwwtbwn.com
@@ -1578,6 +1596,7 @@
 127.0.0.1 lndzkpjtjfjz.bid
 127.0.0.1 lnjpyxvbpyvj.com
 127.0.0.1 lnnwwxpeodmw.com
+127.0.0.1 load.jsecoin.com
 127.0.0.1 loakfiiggz.bid
 127.0.0.1 lofipgeld.bid
 127.0.0.1 lojqfrcipvoo.bid
@@ -1722,6 +1741,8 @@
 127.0.0.1 miisdhpqsp.bid
 127.0.0.1 mikdvucquacd.com
 127.0.0.1 mikkvpggxg.bid
+127.0.0.1 miner.pr0gramm.com
+127.0.0.1 minemytraffic.com
 127.0.0.1 mixfyfriqtatz.bid
 127.0.0.1 mjlkhnizufhmrt.bid
 127.0.0.1 mjujcjfrgslf.com
@@ -2166,6 +2187,7 @@
 127.0.0.1 popadscdn.net
 127.0.0.1 popzkvfimbox.com
 127.0.0.1 ppjjbzcxripw.com
+127.0.0.1 ppoi.org
 127.0.0.1 pppjxzcu.bid
 127.0.0.1 ppskhydfqas.bid
 127.0.0.1 ppuuwencqopa.com
@@ -2184,6 +2206,7 @@
 127.0.0.1 prjywixf.bid
 127.0.0.1 prncfucwvi.bid
 127.0.0.1 prnxtmtbbqs.bid
+127.0.0.1 projectpoi.com
 127.0.0.1 psbadfsth.bid
 127.0.0.1 pshcqtizgdlm.com
 127.0.0.1 psmlgjalddqu.com
@@ -3209,6 +3232,7 @@
 127.0.0.1 xakkasmwpdwzvv.bid
 127.0.0.1 xakmsoaozjgm.com
 127.0.0.1 xavmcsvas.bid
+127.0.0.1 xbasfbno.info
 127.0.0.1 xbbcwbsadlrn.com
 127.0.0.1 xbdlsolradeh.com
 127.0.0.1 xbyvexekkrnt.com
