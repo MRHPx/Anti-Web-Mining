@@ -1,6 +1,6 @@
 # Anti-Web-Mining
 # Host file to block web mining and popads domain
-# Total 3589 domains
+# Total 3591 domains
 # Copy this file to \Windows\System32\drivers\etc
 #
 # Homepage: https://github.com/MRHPx/Anti-Web-Mining
@@ -1328,6 +1328,7 @@
 127.0.0.1 jrauyqdbit.bid
 127.0.0.1 jroqvbvw.info
 127.0.0.1 jrtawlpbusyg.com
+127.0.0.1 jsecoin.com
 127.0.0.1 jtmfmeexjet.bid
 127.0.0.1 jtqfggxxk.bid
 127.0.0.1 jtumenosmrte.com
@@ -2414,6 +2415,7 @@
 127.0.0.1 rdmccvanlx.bid
 127.0.0.1 rdqyasdstllr.com
 127.0.0.1 rdwfotuyp.bid
+127.0.0.1 reasedoper.pw
 127.0.0.1 repefwairfkx.com
 127.0.0.1 rertazmgduxp.com
 127.0.0.1 rezbzvrbemeb.bid
