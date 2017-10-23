@@ -5,7 +5,15 @@ Host file to block web mining and popads domain
 
 Copy **HOST** file to **\Windows\System32\drivers\etc**
 
-Last modified: 20 Oct 2017
+
+## credits: 
+
+@Marfjeh (https://github.com/Marfjeh/coinhive-block) 
+
+@Yhonay (https://github.com/Yhonay/antipopads)
+
+*(I learned so hard how to use github as fast as i can, sorry if i was wrong writing proper credits)*
+
 
 ####
 ####
