@@ -1,6 +1,6 @@
 # Anti-Web-Mining
 # Host file to block web mining and popads domain
-# Total 3591 domains
+# Total 3600 domains
 # Copy this file to \Windows\System32\drivers\etc
 #
 # Homepage: https://github.com/MRHPx/Anti-Web-Mining
@@ -464,6 +464,7 @@
 127.0.0.1 deqrdwsjlpjz.com
 127.0.0.1 derpqpyvym.bid
 127.0.0.1 dfcwecvmjtdj.com
+127.0.0.1 dfgwnkricjcko.bid
 127.0.0.1 dfnnhwiyxjajhq.com
 127.0.0.1 dfujqyjifvoe.com
 127.0.0.1 dfxemnxrsal.bid
@@ -1155,6 +1156,7 @@
 127.0.0.1 iipkiyju.bid
 127.0.0.1 iitfqholnpud.com
 127.0.0.1 ijeuhlrqznjb.com
+127.0.0.1 ijyzkjjabc.bid
 127.0.0.1 ikealcmavhpk.com
 127.0.0.1 ikgxfzfjxmp.bid
 127.0.0.1 iknctklddhoh.com
@@ -2291,6 +2293,7 @@
 127.0.0.1 qfzhppwfkenbmv.bid
 127.0.0.1 qgggccolqyi.bid
 127.0.0.1 qghirkrh.bid
+127.0.0.1 qghsnamd.bid
 127.0.0.1 qgiumuzmxj.com
 127.0.0.1 qgjllgijf.bid
 127.0.0.1 qgmrchjuqro.bid
@@ -2543,6 +2546,7 @@
 127.0.0.1 sbdufkkcp.bid
 127.0.0.1 sbkcxjaktdv.bid
 127.0.0.1 sbkuytscekitph.bid
+127.0.0.1 sblqlcjk.bid
 127.0.0.1 sbpcnpysxbs.bid
 127.0.0.1 sbzngfrmgizpj.bid
 127.0.0.1 scbywuiojqvh.com
@@ -3420,6 +3424,7 @@
 127.0.0.1 ykqpbuqpfjsh.com
 127.0.0.1 yktkodofnikf.com
 127.0.0.1 ykwdfjergthe.com
+127.0.0.1 ylbhlvqqyp.bid
 127.0.0.1 ylhjsrwqtqqb.com
 127.0.0.1 yljrefexjymy.com
 127.0.0.1 ylqezcnlzfsj.com
