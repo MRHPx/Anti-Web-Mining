@@ -7,8 +7,10 @@
 # Contribute: https://github.com/MRHPx/Anti-Web-Mining/issues
 # License: https://mit-license.org/
 #
-# Last modified: 20 Oct 2017
-# 
+# Last modified: 23 Oct 2017
+# credits: @Marfjeh (https://github.com/Marfjeh/coinhive-block), 
+#          @Yhonay (https://github.com/Yhonay/antipopads)
+# (I learned so hard how to use github as fast as i can, sorry if i was wrong writing proper credits)
 
 127.0.0.1 localhost
 ::1 localhost
@@ -457,6 +459,7 @@
 127.0.0.1 ddhnjkaojrcv.bid
 127.0.0.1 ddjodgzhxyjtaa.bid
 127.0.0.1 debuackedhkvu.bid
+127.0.0.1 deepc.cc
 127.0.0.1 deouvnqbgflv.com
 127.0.0.1 deqrdwsjlpjz.com
 127.0.0.1 derpqpyvym.bid
@@ -1341,6 +1344,7 @@
 127.0.0.1 juqmlmoclnhe.com
 127.0.0.1 jusrlkubhjnr.com
 127.0.0.1 jutbdkjc.bid
+127.0.0.1 juvyntuqtku.bid
 127.0.0.1 juyfhwxcvzft.com
 127.0.0.1 jvepcgbq.bid
 127.0.0.1 jvnubhidaev.bid
@@ -1932,6 +1936,7 @@
 127.0.0.1 nrfltkshqgzowk.bid
 127.0.0.1 nrifyiemem.bid
 127.0.0.1 nrszmiiwfifwlq.bid
+127.0.0.1 nsfocddqbiilg.bid
 127.0.0.1 nsgwpapi.bid
 127.0.0.1 nterfvetypi.bid
 127.0.0.1 ntewqfsjum.bid
@@ -3496,6 +3501,7 @@
 127.0.0.1 zbfqzqzkocbgy.bid
 127.0.0.1 zbihwbypkany.com
 127.0.0.1 zbmuqkejcfww.com
+127.0.0.1 zbquabayubqbbg.bid
 127.0.0.1 zbtqpkimkjcr.com
 127.0.0.1 zbutxofdxe.bid
 127.0.0.1 zbwzxxysgs.bid
