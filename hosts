@@ -1,6 +1,6 @@
 # Anti-Web-Mining
 # Host file to block web mining and popads domain
-# Total 3600 domains
+# Total 3613 domains
 # Copy this file to \Windows\System32\drivers\etc
 #
 # Homepage: https://github.com/MRHPx/Anti-Web-Mining
@@ -906,6 +906,7 @@
 127.0.0.1 gphfgyrkpumn.com
 127.0.0.1 gphvcvxebrun.bid
 127.0.0.1 gpiaqusavf.bid
+127.0.0.1 gpkdnfoho.bid
 127.0.0.1 gplqpxhsunghmx.bid
 127.0.0.1 gpltrrdffobf.com
 127.0.0.1 gppzxymr.bid
@@ -995,6 +996,7 @@
 127.0.0.1 heikwwkqy.com
 127.0.0.1 henodmetgjbsas.bid
 127.0.0.1 heracgjcuqmk.com
+127.0.0.1 hevfziuvxq.bid
 127.0.0.1 heydqkfbglbu.com
 127.0.0.1 hfbnztgnmheyd.bid
 127.0.0.1 hfcczxpyfdhl.bid
@@ -1115,6 +1117,7 @@
 127.0.0.1 hzwxkqnqrdfv.com
 127.0.0.1 iagsqudxpcfr.com
 127.0.0.1 iagvkdeienla.com
+127.0.0.1 iaimnsxepxdy.bid
 127.0.0.1 iansucrovvzbi.bid
 127.0.0.1 ibeyqnjfjgsuob.bid
 127.0.0.1 ibljirpmxvav.bid
@@ -1215,6 +1218,7 @@
 127.0.0.1 ivqoqtozlmjp.com
 127.0.0.1 ivsqnmridfxn.com
 127.0.0.1 ivuhwsqnbjjx.bid
+127.0.0.1 ivuqekelizp.bid
 127.0.0.1 iweacndqhiht.com
 127.0.0.1 iwmonrwpeeku.com
 127.0.0.1 iwnvbdosun.bid
@@ -1403,6 +1407,7 @@
 127.0.0.1 kecldktirqzk.com
 127.0.0.1 keeedoleeroe.com
 127.0.0.1 keellcvwpzgj.com
+127.0.0.1 keolqzbmsuykwi.bid
 127.0.0.1 keqnebfovnhl.com
 127.0.0.1 kesllcmdcsbd.com
 127.0.0.1 kfaesgypn.bid
@@ -1800,6 +1805,7 @@
 127.0.0.1 monlscalmows.bid
 127.0.0.1 moquxotvyuoo.com
 127.0.0.1 mosdqxsgjhes.com
+127.0.0.1 moxdmkdzvkgxow.bid
 127.0.0.1 mphqfyhswko.bid
 127.0.0.1 mphqfyhswko.bid
 127.0.0.1 mpoboqvqhjqv.com
@@ -2073,6 +2079,7 @@
 127.0.0.1 oowivxijrgbrzc.bid
 127.0.0.1 opdfugwvncf.bid
 127.0.0.1 opdmxlsdzd.bid
+127.0.0.1 opknogsela.bid
 127.0.0.1 opoefqthl.bid
 127.0.0.1 oppcgcqytazs.com
 127.0.0.1 oqxwefyi.bid
@@ -2518,6 +2525,7 @@
 127.0.0.1 rveftfohdybpwv.bid
 127.0.0.1 rvmwyfvfxendw.bid
 127.0.0.1 rvoxndszxwmo.com
+127.0.0.1 rvrfoskjq.bid
 127.0.0.1 rvzudtgpvwxz.com
 127.0.0.1 rwaxdqfuqih.bid
 127.0.0.1 rweqvydtzyre.com
@@ -2605,6 +2613,7 @@
 127.0.0.1 sloaltbyucrg.com
 127.0.0.1 smjdypbxapigu.bid
 127.0.0.1 smudlbatfjbut.bid
+127.0.0.1 smsbyoxarip.bid
 127.0.0.1 snetddbbbgbp.com
 127.0.0.1 snfqpqyecdrb.com
 127.0.0.1 sngjaetjozyr.com
@@ -2897,6 +2906,7 @@
 127.0.0.1 umboffikfkoc.com
 127.0.0.1 umjdbaog.bid
 127.0.0.1 umnsvtykkptl.com
+127.0.0.1 umswxgeedbaoa.bid
 127.0.0.1 umwsjnsvfzuo.com
 127.0.0.1 umzrccpfbnuu.com
 127.0.0.1 uncumlzowtkn.com
@@ -2926,6 +2936,7 @@
 127.0.0.1 usfakdxuo.bid
 127.0.0.1 uslbqxwum.bid
 127.0.0.1 usnhsilyntf.bid
+127.0.0.1 usuanyzr.bid
 127.0.0.1 usymycvrilyt.com
 127.0.0.1 uszpxpcoflkl.com
 127.0.0.1 utfffrxmzuvy.com
@@ -2942,6 +2953,7 @@
 127.0.0.1 uvxaafcozjgh.com
 127.0.0.1 uwnklfxurped.com
 127.0.0.1 uwpmwpjlxblb.com
+127.0.0.1 uxferkyskxont.bid
 127.0.0.1 uxjekaexjsxe.bid
 127.0.0.1 uxmskpwnsmzlro.bid
 127.0.0.1 uxvtglgbeshxn.bid
@@ -3207,6 +3219,7 @@
 127.0.0.1 wrkzbwhm.bid
 127.0.0.1 wrtnetixxrmg.com
 127.0.0.1 wrvbbyxmsqs.bid
+127.0.0.1 wrzwnpmgt.bid
 127.0.0.1 wsaijhlcnsqu.com
 127.0.0.1 wstfgpdmb.bid
 127.0.0.1 wtdivwvldpykn.bid
